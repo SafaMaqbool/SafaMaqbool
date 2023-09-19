@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @SafaMaqbool
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BSCS at Salim Habib University 
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @s.maq.basha@gmail.com
+## 🔧 Technologies & Tools
+
+- HTML5, CSS3, JavaScript
+- ReactJS, Node.js Django, SpringBoot
+- Express.js, MongoDB
+- Git, GitHub
+- and more...
+
+## 🌱 Currently Learning
 
 <!---
 SafaMaqbool/SafaMaqbool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
