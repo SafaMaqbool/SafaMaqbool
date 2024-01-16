@@ -1,12 +1,39 @@
-## 🔧 Technologies & Tools
+## 👩‍💻 Tech Stack & Interests
 
-- HTML5, CSS3, JavaScript
-- ReactJS, Node.js Django, SpringBoot
-- Express.js, MongoDB
-- Git, GitHub
-- and more...
+### Languages
+- 💻 C, C++, Java, JavaScript, Python
 
-## 🌱 Currently Learning
+### Web Development
+- 🌐 HTML5, CSS3, JavaScript
+- ⚛️ ReactJS, Node.js, Express.js
+- 🐍 Django
+- ☕ SpringBoot
+- 🎨 Bootstrap, Tailwind CSS
+
+### Database
+- 📊 MongoDB
+- 🐬 MySQL
+- 📜 SQL
+
+### DevOps
+- ☁️ Cloud Platforms: AWS
+- 🐳 Docker
+- 🚀 Continuous Integration/Continuous Deployment (CI/CD) with Terraform
+- 🧩 Infrastructure as Code: Terraform
+- 🛠️ Terraform
+
+### Software Quality Assurance (SQA)
+- 🔍 Cypress
+- 🤖 UiPath
+
+### Tools & Version Control
+- 🧰 Git, GitHub
+
+### Interests
+- 🕵️‍♀️ Software Quality Assurance (SQA)
+- 🤖 Machine Learning & AI
+- ☁️ DevOps
+- 🌐 Web Development
 
 <!---
 SafaMaqbool/SafaMaqbool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
