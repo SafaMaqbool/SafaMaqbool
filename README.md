@@ -6,8 +6,6 @@
 ### Web Development
 - 🌐 HTML5, CSS3, JavaScript
 - ⚛️ ReactJS, Node.js, Express.js
-- 🐍 Django
-- ☕ SpringBoot
 - 🎨 Bootstrap, Tailwind CSS
 
 ### Database
