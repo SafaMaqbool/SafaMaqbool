@@ -1,39 +1,42 @@
-## 👩‍💻 Tech Stack & Interests
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=15F7F5&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Safa+Maqbool+👨🏻‍💻;" />
+</h1>
 
-### Languages
-- 💻 C, C++, Java, JavaScript, Python
+<h3 align="center">A Passionate FullStack Developer & YouTuber From Pakistan</h3>
 
-### Web Development
-- 🌐 HTML5, CSS3, JavaScript
-- ⚛️ ReactJS, Node.js, Express.js
-- 🎨 Bootstrap, Tailwind CSS
+<br/>
 
-### Database
-- 📊 MongoDB
-- 🐬 MySQL
-- 📜 SQL
+<div align="center">
 
-### DevOps
-- ☁️ Cloud Platforms: AWS
-- 🐳 Docker
-- 🚀 Continuous Integration/Continuous Deployment (CI/CD) with Terraform
-- 🧩 Infrastructure as Code: Terraform
-- 🛠️ Terraform
 
-### Software Quality Assurance (SQA)
-- 🔍 Cypress
-- 🤖 UiPath
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:s.maq.basha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://www.behance.net/safamaqbool06" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/safamaqbool/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<!--   <a href="https://farzeen.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-F3B95F?style=for-the-badge&logo=google&logoColor=white" />
+  </a> -->
+</div>
 
-### Tools & Version Control
-- 🧰 Git, GitHub
+ <hr/>
+ 
+<h2 align="center">👩‍💻 Tech Stack & Interests</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mongodb,mysql,docker,cypress" /><br>
+</div>
 
-### Interests
-- 🕵️‍♀️ Software Quality Assurance (SQA)
-- 🤖 Machine Learning & AI
-- ☁️ DevOps
-- 🌐 Web Development
+<br/>
+<hr/>
 
-<!---
-SafaMaqbool/SafaMaqbool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=tokyonight)
