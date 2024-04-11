@@ -14,10 +14,10 @@
 <div align="center"> 
   <a href="mailto:s.maq.basha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<!--   </a>
     <a href="https://www.behance.net/safamaqbool06" target="_blank">
      <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/safamaqbool/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
