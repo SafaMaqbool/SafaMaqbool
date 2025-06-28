@@ -45,22 +45,23 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafaMaqbool&theme=tokyonight" width="100%"/>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafaMaqbool&theme=tokyonight" width="90%" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SafaMaqbool&theme=tokyonight&hide_border=false&border_radius=12" width="49%" />
-      <img src="https://github-readme-stats.vercel.app/api?username=SafaMaqbool&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" width="49%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SafaMaqbool&theme=tokyonight&hide_border=false&border_radius=12" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SafaMaqbool&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaMaqbool&layout=donut&theme=tokyonight&hide_border=false&border_radius=12" width="60%" />
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaMaqbool&layout=donut&theme=tokyonight&hide_border=false&border_radius=12" width="50%" />
     </td>
   </tr>
 </table>
 
 </div>
-
