@@ -1,23 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=15F7F5&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Safa+Maqbool+👩🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=15F7F5&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Safa+Maqbool+👩🏻‍💻;" />
 </h1>
 
-<h3 align="center">A Passionate FullStack Developer From Pakistan</h3>
+<h3 align="center">FullStack Developer from Pakistan — building cool stuff on the web 🛠️</h3>
 
-<br/>
-
-<!-- Profile Views just under intro -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SafaMaqbool&style=for-the-badge&color=FEC8D8&label=Profile+Views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=SafaMaqbool&style=for-the-badge&color=6C22A6&label=Profile+Views" />
 </p>
 
 <hr/>
 
-<h2 align="center">👩‍💻 Tech Stack & Interests</h2>
+<h2 align="center">👩‍💻 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
-  <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mongodb,mysql,docker,cypress" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,tailwind,css,bootstrap,html,mongodb,mysql,docker,cypress,git,github,vscode" />
 </div>
 
 <br/>
@@ -51,7 +47,6 @@
 <br/>
 <hr/>
 
-<!-- Footer: Connect With Me -->
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
