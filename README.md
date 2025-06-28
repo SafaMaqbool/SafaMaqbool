@@ -15,7 +15,12 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px; background-color: rgba(255,255,255,0.04); border-radius: 12px;">
-      <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,tailwind,css,bootstrap,html,mongodb,mysql,docker,cypress,git,github,vscode" />
+      <!-- Frontend -->
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" /><br/><br/>
+      <!-- Backend & DB (exactly 8) -->
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,postgres,prisma" /><br/><br/>
+      <!-- Tools & DevOps (exactly 8) -->
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,docker" />
     </td>
   </tr>
 </table>
