@@ -12,12 +12,14 @@
 
 <h2 align="center">👩‍💻 Tech Stack & Tools</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,tailwind,css,bootstrap,html,mongodb,mysql,docker,cypress,git,github,vscode" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px; background-color: rgba(255,255,255,0.04); border-radius: 12px;">
+      <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,tailwind,css,bootstrap,html,mongodb,mysql,docker,cypress,git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-<hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
