@@ -1,30 +1,121 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=15F7F5&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Safa+Maqbool+👩🏻‍💻;" />
-</h1>
+<div align="center">
 
-<h3 align="center">FullStack Developer from Pakistan — building cool stuff on the web 🛠️</h3>
+# Hi, I am Safa Maqbool ✨
+<br>
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=SafaMaqbool&style=for-the-badge&color=6C22A6&label=Profile+Views" />
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<br>
+
+*Passionate developer from Pakistan crafting beautiful, scalable web applications*
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=MERN+Stack+Wizard;React+%7C+Node+%7C+TypeScript;Building+Digital+Magic;Code+Artisan" alt="Typing SVG" />
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<p  align="center" style="margin: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=SafaMaqbool&style=flat-square&color=A855F7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SafaMaqbool?label=Followers&style=flat-square&color=A855F7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SafaMaqbool?label=Stars&style=flat-square&color=EC4899" alt="GitHub Stars" />
 </p>
 
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" /> About Me
+I'm a passionate developer from Pakistan who loves building things that live on the internet. I enjoy turning complex problems into simple, beautiful solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open source projects.
+
+```jsx
+import { Developer } from 'universe';
+
+class SafaMaqbool extends Developer {
+  constructor() {
+    super();
+    this.name = "Safa Maqbool";
+    this.location = "Pakistan 🇵🇰";
+    this.title = "Full Stack Magician";
+    this.experience = "3+ Years of Pure Web Domination";
+    this.superpower = "Turning Coffee ☕ into Code 💻";
+    this.mission = "Building the web, one component at a time";
+  }
+
+  getSkills() {
+    return {
+      frontend: ['React ⚛️', 'Next.js 🔥', 'TypeScript 💙', 'Vue.js 💚'],
+      backend: ['Node.js 🟢', 'Express ⚡', 'MongoDB 🍃', 'PostgreSQL 🐘'],
+      styling: ['Tailwind CSS 🎨', 'Styled Components 💅', 'SCSS 🎯'],
+      tools: ['Docker 🐳', 'AWS ☁️', 'Git 📝', 'Figma 🎨'],
+      currentlyMastering: 'Serverless Architecture & Cloud Native Development'
+    };
+  }
+
+  getDailyRoutine() {
+    return ['🌅 Wake up', '☕ Coffee', '💻 Code', '🚀 Deploy', '😴 Sleep', '🔄 Repeat'];
+  }
+}
+
+const safa = new SafaMaqbool();
+export default safa;
+```
+
+Currently focused on building scalable web applications and exploring cloud technologies. I believe in writing clean, maintainable code and creating user experiences that matter.
+
+---
+
 <br/>
-<hr/>
 
-<h2 align="center">👩‍💻 Tech Stack & Tools</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" style="padding: 20px; background-color: rgba(255,255,255,0.04); border-radius: 12px;">
-      <!-- Frontend -->
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" /><br/><br/>
-      <!-- Backend & DB -->
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,postgres,prisma" /><br/><br/>
-      <!-- Tools & DevOps -->
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,docker" />
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg" width="60"/>
+<br><strong>Passionate Developer</strong>
+<p>Building scalable applications<br>with clean, efficient code</p>
+</td>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="60"/>
+<br><strong>Lightning Fast</strong>
+<p>Optimized performance<br>and seamless UX</p>
+</td>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" alt="DM" width="60"/>
+<br><strong>Always Learning</strong>
+<p>Exploring cutting-edge<br>technologies daily</p>
+</td>
+</tr>
 </table>
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="25" /> Tech Arsenal
+
+
+<div align="center">
+
+### 🎨 Frontend Magic
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,sass" />
+</p>
+
+### ⚡ Backend Power  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,prisma,graphql,firebase" />
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman,figma,vscode" />
+</p>
+
+</div>
 
 <br/>
 <hr/>
@@ -73,5 +164,6 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 </div>
+
 
 <br/><br/>
