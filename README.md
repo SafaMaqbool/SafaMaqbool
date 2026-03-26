@@ -11,18 +11,23 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **Software Engineer** with 3+ years of professional experience in full-stack development.  
-I specialize in designing and building scalable web applications with a strong focus on performance, maintainability, and user experience.  
 
-- 🌍 Based in Karachi, Pakistan  
-- 💡 Strong in **MERN Stack, TypeScript, and system design**  
-- 📈 Experienced in **Agile teams, CI/CD, and modern DevOps practices**  
-- 🚀 Exploring **cloud platforms (AWS, Firebase)** and **design systems**  
-- 🤝 Open to **collaborations, freelance projects, and full-time opportunities**  
+I build **scalable, high-performance web applications** that don’t just work — they *feel right*.
+
+With 3+ years of professional experience, I specialize in turning ideas into production-ready products using the **MERN stack, TypeScript, and modern system design principles**.
+
+I care deeply about:
+- Clean architecture 🧠
+- Smooth user experiences 🎯
+- Writing code that actually scales 🚀
+
+🌍 Based in Karachi, Pakistan  
+🤝 Open to collaborations, freelance projects, and full-time opportunities  
 
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui" />
   <br/>
@@ -31,9 +36,35 @@ I specialize in designing and building scalable web applications with a strong f
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,aws,figma,vscode,postman" />
 </p>
 
+## 💡 What I Bring
+
+✔ Ability to take a feature from idea → production  
+✔ Strong debugging and problem-solving mindset  
+✔ Experience working in Agile teams  
+✔ Clean, maintainable, and scalable code practices  
+✔ UI/UX awareness (not just backend thinking)
+
+---
+
+## 🧪 Currently Exploring
+
+- Advanced system design patterns  
+- Cloud architecture (AWS, Firebase)  
+- Building interactive web experiences  
+- Performance optimization at scale  
+
+---
+
+## ⚡ Fun Side
+
+- I turn random ideas into real products  
+- Slight obsession with making UI feel *just right*  
+- Debugging is frustrating… but also addictive 😄  
+
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SafaMaqbool&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaMaqbool&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -46,14 +77,9 @@ I specialize in designing and building scalable web applications with a strong f
 ---
 
 ## 🤝 Connect
+
 <p align="center">
   <a href="mailto:s.maq.basha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/safamaqbool/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.instagram.com/safamaqbool_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?text=Thanks+for+visiting!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
