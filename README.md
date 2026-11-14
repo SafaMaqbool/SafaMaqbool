@@ -1,93 +1,96 @@
-<div align="center">
+<a href="https://safa-maqbool-dev.vercel.app">
+  <img src="./assets/header.svg" width="100%" alt="Safa Maqbool — Full-stack engineer & educator. I design & build SaaS platforms, AI products, scalable MVPs." />
+</a>
 
-# Safa Maqbool
+<p align="center">
+  <a href="https://safa-maqbool-dev.vercel.app"><img src="./assets/btn-portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
+  <a href="https://safa-maqbool-dev.vercel.app/resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Résumé" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/safamaqbool/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01998f723d28c3776a"><img src="./assets/btn-upwork.svg" height="36" alt="Upwork" /></a>&nbsp;
+  <a href="https://preply.com/en/tutor/3309824"><img src="./assets/btn-preply.svg" height="36" alt="Preply" /></a>&nbsp;
+  <a href="https://www.fiverr.com/safa_maqbool"><img src="./assets/btn-fiverr.svg" height="36" alt="Fiverr" /></a>&nbsp;
+  <a href="mailto:s.maq.basha@gmail.com"><img src="./assets/btn-email.svg" height="36" alt="Email" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C897&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;MERN+Stack+%7C+TypeScript+%7C+System+Design;Building+products+people+actually+use)](https://github.com/SafaMaqbool)
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SafaMaqbool&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/SafaMaqbool)
+<img src="./assets/stats.svg" width="100%" alt="100% Upwork job success · 5.0 client rating · 568+ lessons on Preply · 8+ products shipped" />
 
-</div>
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-about-dark.svg" />
+  <img src="./assets/h-about-light.svg" width="100%" alt="01 — A little about me" />
+</picture>
 
-## About Me
+Most founders I talk to have the same story: they hired developers, burned through budget, and still don't have a product they can demo with confidence.
 
-I build **scalable, high-performance web applications** — from architecture decisions to the last pixel of UI. With 3+ years of professional experience, I specialize in the **MERN stack, TypeScript**, and modern system design principles.
+The problem usually isn't the code. It's that nobody was thinking about the **product** while writing it. So I start with the business, then pick the stack, then build something that works, scales, and won't need a rewrite in six months.
 
-I care deeply about clean architecture, smooth user experiences, and writing code that actually scales. Based in **Karachi, Pakistan** — open to collaborations, freelance projects, and full-time opportunities worldwide.
+When I'm not shipping for clients, I'm in a classroom — teaching system development, web programming and system architecture. Teaching keeps my own engineering honest.
 
----
+<br/>
 
-## 💼 Available for Hire
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg" />
+  <img src="./assets/h-work-light.svg" width="100%" alt="02 — Selected work" />
+</picture>
 
-I'm actively taking on freelance projects. If you need a reliable full-stack developer who can take a feature from **idea → production**, let's talk.
+<p align="center">
+  <a href="https://www.knowledge-base.ketrivo.com/login"><img src="./assets/work-kb.svg" width="49%" alt="AI Knowledge Base" /></a>
+  <a href="https://safa-maqbool-dev.vercel.app/#work"><img src="./assets/work-acadenxe.svg" width="49%" alt="Acadenxe" /></a>
+</p>
+<p align="center">
+  <a href="https://sm-lumiere-website.vercel.app/"><img src="./assets/work-lumiere.svg" width="49%" alt="SM Lumière" /></a>
+  <a href="https://oeeintellisuite.com"><img src="./assets/work-oee.svg" width="49%" alt="OEE IntelliSuite" /></a>
+</p>
 
-| Platform | Profile |
-|----------|---------|
-| 🟢 Upwork | [upwork.com/freelancers/safamaqbool](https://www.upwork.com/freelancers/safamaqbool) |
-| 🟡 Fiverr | [fiverr.com/safa_maqbool](https://www.fiverr.com/safa_maqbool) |
-| 💼 LinkedIn | [linkedin.com/in/safamaqbool](https://www.linkedin.com/in/safamaqbool/) |
-| 📧 Email | [s.maq.basha@gmail.com](mailto:s.maq.basha@gmail.com) |
+<img src="./assets/more.svg" width="100%" alt="More work: AppFolio PDF to CSV, Bau Website, Grovera, Nodeform, electron-js, sticky-notes-app" />
 
----
+<p align="center"><sub>
+Code: <a href="https://github.com/SafaMaqbool/electron-js">electron-js</a> · <a href="https://github.com/SafaMaqbool/sticky-notes-app">sticky-notes-app</a> &nbsp;|&nbsp; Open source: <a href="https://github.com/learning-unlimited/learning-unlimited.github.io">learningu.org</a> · <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a> &nbsp;|&nbsp; Case studies: <a href="https://safa-maqbool-dev.vercel.app/#work">portfolio</a>
+</sub></p>
 
-## 🛠 Tech Stack
+<br/>
 
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.svg" />
+  <img src="./assets/h-stack-light.svg" width="100%" alt="03 — Tools I reach for" />
+</picture>
 
-[![](https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui)](https://skillicons.dev)
+<img src="./assets/stack.svg" width="100%" alt="Next.js, TypeScript, React, Node.js, Tailwind, PostgreSQL, Prisma, Supabase, MongoDB, Astro, Sanity, Stripe, GraphQL, n8n, Bun, Vercel, Cloudflare, Docker, Python, Framer Motion, Figma" />
 
-**Backend & Databases**
+<br/><br/>
 
-[![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,supabase,graphql)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-teaching-dark.svg" />
+  <img src="./assets/h-teaching-light.svg" width="100%" alt="04 — In the classroom" />
+</picture>
 
-**Tools & Infrastructure**
+<a href="https://preply.com/en/tutor/3309824"><img src="./assets/teaching.svg" width="100%" alt="568+ lessons on Preply. Courses: System Development, Web Programming, System Architecture" /></a>
 
-[![](https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,aws,figma,vscode,postman)](https://skillicons.dev)
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-words-dark.svg" />
+  <img src="./assets/h-words-light.svg" width="100%" alt="05 — Kind words" />
+</picture>
 
-## 🔍 What I Bring to the Table
+<img src="./assets/words.svg" width="100%" alt="Client testimonials from Upwork" />
 
-- **End-to-end ownership** — I take features from requirements to deployment, not just isolated tasks
-- **Strong debugging mindset** — I don't stop at "it works on my machine"
-- **Agile-ready** — experienced working in cross-functional, fast-moving teams
-- **UI/UX awareness** — backend decisions informed by front-end impact
-- **Clean, documented code** — built for the next developer, not just the deadline
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-github-dark.svg" />
+  <img src="./assets/h-github-light.svg" width="100%" alt="06 — On GitHub" />
+</picture>
 
-## 🌐 Open Source Contributions
+<p align="center">
+  <a href="https://github.com/SafaMaqbool"><img src="https://streak-stats.demolab.com/?user=SafaMaqbool&hide_border=true&border_radius=16&background=0c100f&ring=10b981&fire=22d3ee&currStreakLabel=10b981&sideLabels=8b9792&currStreakNum=ecf2ef&sideNums=ecf2ef&dates=8b9792&stroke=1f2a26" width="560" alt="GitHub contributions and streak" /></a>
+</p>
 
-| Project | Description | Type |
-|---------|-------------|------|
-| [learning-unlimited/learning-unlimited.github.io](https://github.com/learning-unlimited/learning-unlimited.github.io) | Contributed to the official learningu.org website — a platform connecting students with educational programs | Issue Resolution |
-| [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) | Contributed to an open-source beginner-friendly project with 1000+ contributors | Issue Resolution |
+<br/>
 
----
-
-## 🚀 Currently Working On
-
-- Deepening expertise in **AWS cloud architecture** and **distributed systems**
-- Exploring **performance optimization** patterns at scale
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafaMaqbool&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/SafaMaqbool)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafaMaqbool&layout=compact&theme=radical&hide_border=true)](https://github.com/SafaMaqbool)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SafaMaqbool&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+<a href="https://safa-maqbool-dev.vercel.app/#contact">
+  <img src="./assets/cta.svg" width="100%" alt="Have a product in mind? Let's build something real — book a free 30-min call" />
+</a>
