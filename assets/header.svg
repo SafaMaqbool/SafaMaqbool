@@ -10,6 +10,8 @@
 .a1{animation:d1 16s ease-in-out infinite alternate}.a2{animation:d2 19s ease-in-out infinite alternate}.a3{animation:d3 14s ease-in-out infinite alternate}
 @keyframes d1{to{transform:translate(-120px,60px)}}@keyframes d2{to{transform:translate(-90px,-80px)}}@keyframes d3{to{transform:translate(110px,-50px)}}
 .ping{transform-origin:624px 57px;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+.tw{opacity:0;animation:tw 3s ease-in-out infinite}@keyframes tw{0%,100%{opacity:0}50%{opacity:.85}}
+.trace{animation:tr 7s linear infinite}@keyframes tr{to{stroke-dashoffset:-100}}
 @keyframes ping{from{transform:scale(1);opacity:.7}to{transform:scale(3.2);opacity:0}}
 </style>
 
@@ -17,6 +19,10 @@
   <stop offset="0" stop-color="#10b981"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
 </linearGradient>
 <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+  <stop offset="0" stop-color="#10b981"/><stop offset=".35" stop-color="#22d3ee"/><stop offset=".5" stop-color="#f0fdfa"/><stop offset=".65" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
+</linearGradient>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="rgba(236,242,239,0.035)"/></pattern><clipPath id="c"><rect width="840" height="360" rx="22"/></clipPath></defs>
 <g clip-path="url(#c)">
   <rect width="840" height="360" fill="#060807"/>
@@ -28,6 +34,7 @@
   <rect width="840" height="360" fill="url(#grid)"/>
   </g>
 <rect x=".5" y=".5" width="839" height="359" rx="21.5" stroke="rgba(236,242,239,0.09)"/>
+<rect class="trace" x=".75" y=".75" width="838.5" height="358.5" rx="21.5" pathLength="100" stroke="url(#g)" stroke-width="1.5" stroke-dasharray="14 86" stroke-linecap="round"/>
 
 <g class="fade" style="animation-delay:.05s">
   <rect x="48" y="40" width="34" height="34" rx="9" fill="none" stroke="rgba(236,242,239,.18)"/>
@@ -41,8 +48,10 @@
 </g>
 
 <text class="mono fade" style="animation-delay:.25s" x="48" y="132" font-size="12.5" fill="#8b9792" letter-spacing="2.6">SAFA MAQBOOL — FULL-STACK ENGINEER &amp; EDUCATOR</text>
-<text class="sans fade" style="animation-delay:.35s" x="46" y="190" font-size="50" font-weight="600" fill="#ecf2ef" letter-spacing="-1.6">I design &amp; build</text>
-<text class="serif w" style="animation-delay:0s" x="48" y="252" font-size="62" fill="url(#g)">SaaS platforms.</text><text class="serif w" style="animation-delay:3s" x="48" y="252" font-size="62" fill="url(#g)">AI products.</text><text class="serif w" style="animation-delay:6s" x="48" y="252" font-size="62" fill="url(#g)">scalable MVPs.</text><text class="serif w" style="animation-delay:9s" x="48" y="252" font-size="62" fill="url(#g)">fast websites.</text><text class="serif w" style="animation-delay:12s" x="48" y="252" font-size="62" fill="url(#g)">future engineers.</text>
+<clipPath id="rv"><rect x="40" y="140" width="0" height="64"><animate attributeName="width" from="0" to="480" begin="0.35s" dur="1.1s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect></clipPath>
+<text clip-path="url(#rv)" class="sans" x="46" y="190" font-size="50" font-weight="600" fill="#ecf2ef" letter-spacing="-1.6">I design &amp; build</text>
+<circle class="tw" cx="635" cy="332" r="1" fill="#fff" style="animation-delay:1.58s;animation-duration:2.60s"/><circle class="tw" cx="744" cy="114" r="1.2" fill="#fff" style="animation-delay:2.33s;animation-duration:4.32s"/><circle class="tw" cx="579" cy="99" r="0.8" fill="#fff" style="animation-delay:1.73s;animation-duration:2.64s"/><circle class="tw" cx="516" cy="231" r="1.5" fill="#fff" style="animation-delay:0.24s;animation-duration:3.63s"/><circle class="tw" cx="584" cy="251" r="0.8" fill="#fff" style="animation-delay:2.31s;animation-duration:3.29s"/><circle class="tw" cx="583" cy="101" r="1" fill="#fff" style="animation-delay:1.16s;animation-duration:2.79s"/><circle class="tw" cx="530" cy="236" r="1.2" fill="#fff" style="animation-delay:2.24s;animation-duration:3.86s"/><circle class="tw" cx="522" cy="238" r="1" fill="#fff" style="animation-delay:1.49s;animation-duration:3.60s"/><circle class="tw" cx="502" cy="234" r="0.8" fill="#fff" style="animation-delay:2.48s;animation-duration:3.49s"/><circle class="tw" cx="742" cy="199" r="1.2" fill="#fff" style="animation-delay:1.86s;animation-duration:4.35s"/><circle class="tw" cx="655" cy="166" r="1" fill="#fff" style="animation-delay:3.18s;animation-duration:3.90s"/><circle class="tw" cx="594" cy="110" r="1.2" fill="#fff" style="animation-delay:2.10s;animation-duration:4.25s"/><circle class="tw" cx="699" cy="163" r="0.8" fill="#fff" style="animation-delay:0.47s;animation-duration:3.34s"/><circle class="tw" cx="645" cy="128" r="1.5" fill="#fff" style="animation-delay:1.69s;animation-duration:4.42s"/><circle class="tw" cx="509" cy="285" r="1.2" fill="#fff" style="animation-delay:1.36s;animation-duration:3.20s"/><circle class="tw" cx="724" cy="238" r="1.5" fill="#fff" style="animation-delay:0.28s;animation-duration:2.69s"/><circle class="tw" cx="608" cy="211" r="0.8" fill="#fff" style="animation-delay:0.24s;animation-duration:3.90s"/><circle class="tw" cx="801" cy="237" r="1.5" fill="#fff" style="animation-delay:1.14s;animation-duration:3.27s"/><circle class="tw" cx="812" cy="178" r="0.8" fill="#fff" style="animation-delay:3.76s;animation-duration:3.21s"/><circle class="tw" cx="782" cy="119" r="1.5" fill="#fff" style="animation-delay:0.24s;animation-duration:4.04s"/><circle class="tw" cx="536" cy="279" r="1" fill="#fff" style="animation-delay:1.59s;animation-duration:4.33s"/><circle class="tw" cx="724" cy="110" r="1" fill="#fff" style="animation-delay:1.80s;animation-duration:3.60s"/>
+<text class="serif w" style="animation-delay:0s" x="48" y="252" font-size="62" fill="url(#gs)">SaaS platforms.</text><text class="serif w" style="animation-delay:3s" x="48" y="252" font-size="62" fill="url(#gs)">AI products.</text><text class="serif w" style="animation-delay:6s" x="48" y="252" font-size="62" fill="url(#gs)">scalable MVPs.</text><text class="serif w" style="animation-delay:9s" x="48" y="252" font-size="62" fill="url(#gs)">fast websites.</text><text class="serif w" style="animation-delay:12s" x="48" y="252" font-size="62" fill="url(#gs)">future engineers.</text>
 <text class="sans fade" style="animation-delay:.6s" x="48" y="306" font-size="16" fill="#8b9792">Next.js, TypeScript &amp; Node — for founders who need it to <tspan fill="#ecf2ef">actually work</tspan>.</text>
 <text class="mono fade" style="animation-delay:.7s" x="792" y="306" text-anchor="end" font-size="12" fill="#8b9792">KHI · UTC+5</text>
 

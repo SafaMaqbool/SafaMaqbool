@@ -2,8 +2,8 @@
 <style>
 .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}
-</style>
+.sw{animation:sw 3.2s ease-in-out infinite}@keyframes sw{0%{transform:translateX(0) skewX(-20deg)}55%,100%{transform:translateX(220px) skewX(-20deg)}}</style>
 <rect x=".5" y=".5" width="142" height="43" rx="12" fill="#10b981" stroke="#10b981"/>
 <g transform="translate(18 13)" stroke="#060807" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" color="#060807"><circle cx="9" cy="9" r="8"/><path d="M1 9h16M9 1c2.5 2.5 2.5 13.5 0 16M9 1c-2.5 2.5-2.5 13.5 0 16"/></g>
-<text class="sans" x="46" y="27.5" font-size="14" font-weight="600" fill="#060807">Portfolio</text>
+<text class="sans" x="46" y="27.5" font-size="14" font-weight="600" fill="#060807">Portfolio</text><clipPath id="bc"><rect width="143" height="44" rx="12"/></clipPath><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><g clip-path="url(#bc)"><rect class="sw" x="-50" y="0" width="40" height="44" fill="url(#sh)" transform="skewX(-20)"/></g>
 </svg>
