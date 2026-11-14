@@ -2,6 +2,8 @@
   <img src="./assets/header.svg" width="100%" alt="Safa Maqbool — Full-stack engineer & educator. I design & build SaaS platforms, AI products, scalable MVPs." />
 </a>
 
+<br/>
+
 <p align="center">
   <a href="https://safa-maqbool-dev.vercel.app"><img src="./assets/btn-portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
   <a href="https://safa-maqbool-dev.vercel.app/resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Résumé" /></a>&nbsp;
