@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="410" viewBox="0 0 840 410" fill="none">
+<style>
+.sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.s{animation:up .7s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
+<rect x=".5" y=".5" width="839" height="409" rx="18" fill="#0c100f" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.08s">
+<text class="mono" x="28" y="61" font-size="11" fill="#10b981">05</text>
+<text class="sans" x="68" y="52" font-size="16" font-weight="600" fill="#ecf2ef">AppFolio PDF → CSV</text>
+<text class="sans" x="68" y="72" font-size="13" fill="#8b9792">Client idea to product: AppFolio reports into clean CSVs</text>
+<text class="mono" x="812" y="61" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">PRODUCT · UX · DATA</text>
+</g><line x1="28" y1="86" x2="812" y2="86" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.16s">
+<text class="mono" x="28" y="123" font-size="11" fill="#10b981">06</text>
+<text class="sans" x="68" y="114" font-size="16" font-weight="600" fill="#ecf2ef">Bau Website</text>
+<text class="sans" x="68" y="134" font-size="13" fill="#8b9792">German construction company, pixel-perfect from Figma</text>
+<text class="mono" x="812" y="123" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">ASTRO · TAILWIND V4</text>
+</g><line x1="28" y1="148" x2="812" y2="148" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.24s">
+<text class="mono" x="28" y="185" font-size="11" fill="#10b981">07</text>
+<text class="sans" x="68" y="176" font-size="16" font-weight="600" fill="#ecf2ef">Grovera</text>
+<text class="sans" x="68" y="196" font-size="13" fill="#8b9792">Agency site for educational institutes across Pakistan</text>
+<text class="mono" x="812" y="185" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">ASTRO · CLOUDFLARE</text>
+</g><line x1="28" y1="210" x2="812" y2="210" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.32s">
+<text class="mono" x="28" y="247" font-size="11" fill="#10b981">08</text>
+<text class="sans" x="68" y="238" font-size="16" font-weight="600" fill="#ecf2ef">Nodeform</text>
+<text class="sans" x="68" y="258" font-size="13" fill="#8b9792">Team portfolio with a single typed content source</text>
+<text class="mono" x="812" y="247" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">NEXT.JS · MOTION</text>
+</g><line x1="28" y1="272" x2="812" y2="272" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.40s">
+<text class="mono" x="28" y="309" font-size="11" fill="#10b981">09</text>
+<text class="sans" x="68" y="300" font-size="16" font-weight="600" fill="#ecf2ef">electron-js</text>
+<text class="sans" x="68" y="320" font-size="13" fill="#8b9792">Electron boilerplate: Google OAuth 2.0, PKCE, secure tokens</text>
+<text class="mono" x="812" y="309" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">ELECTRON · TS</text>
+</g><line x1="28" y1="334" x2="812" y2="334" stroke="rgba(236,242,239,0.09)"/><g class="s" style="animation-delay:0.48s">
+<text class="mono" x="28" y="371" font-size="11" fill="#10b981">10</text>
+<text class="sans" x="68" y="362" font-size="16" font-weight="600" fill="#ecf2ef">sticky-notes-app</text>
+<text class="sans" x="68" y="382" font-size="13" fill="#8b9792">Drag-and-drop notes with persistent storage</text>
+<text class="mono" x="812" y="371" text-anchor="end" font-size="10.5" fill="#8b9792" letter-spacing="1.2">JS · APPWRITE</text>
+</g>
+</svg>

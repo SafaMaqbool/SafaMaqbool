@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="44" viewBox="0 0 143 44" fill="none">
+<style>
+.sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="142" height="43" rx="12" fill="#10b981" stroke="#10b981"/>
+<g transform="translate(18 13)" stroke="#060807" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" color="#060807"><circle cx="9" cy="9" r="8"/><path d="M1 9h16M9 1c2.5 2.5 2.5 13.5 0 16M9 1c-2.5 2.5-2.5 13.5 0 16"/></g>
+<text class="sans" x="46" y="27.5" font-size="14" font-weight="600" fill="#060807">Portfolio</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="44" viewBox="0 0 111 44" fill="none">
+<style>
+.sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="110" height="43" rx="12" fill="#0c100f" stroke="rgba(236,242,239,.14)"/>
+<g transform="translate(18 13)" stroke="#ecf2ef" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" color="#ecf2ef"><rect x="1" y="3" width="16" height="12" rx="2"/><path d="m1.5 4 7.5 6 7.5-6"/></g>
+<text class="sans" x="46" y="27.5" font-size="14" font-weight="600" fill="#ecf2ef">Email</text>
+</svg>

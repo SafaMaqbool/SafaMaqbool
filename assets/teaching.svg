@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" fill="none">
+<style>
+.sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.s{animation:up .8s cubic-bezier(.2,.7,.2,1) both}@keyframes up{from{opacity:0;transform:translateX(12px)}to{opacity:1;transform:none}}</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#10b981"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+</linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="rgba(236,242,239,0.035)"/></pattern></defs>
+<rect x=".5" y=".5" width="839" height="249" rx="18" fill="#0c100f" stroke="rgba(236,242,239,0.09)"/>
+<text class="serif" x="32" y="96" font-size="64" fill="url(#g)">568+</text>
+<text class="mono" x="34" y="122" font-size="11" fill="#8b9792" letter-spacing="1.4">LESSONS ON PREPLY · TOP 10% CS TUTORS</text>
+<text class="sans" x="34" y="168" font-size="15" fill="#ecf2ef">Every lesson should end with</text>
+<text class="sans" x="34" y="190" font-size="15" fill="#ecf2ef">something students can <tspan class="serif" font-size="18" fill="#10b981">build.</tspan></text>
+<text class="mono" x="34" y="222" font-size="11" fill="#8b9792">Python · Java · C/C++ · DSA · SQL · OS · A-Level CS</text>
+<g class="s" style="animation-delay:0.15s"><rect x="372" y="34" width="440" height="50" rx="12" fill="rgba(236,242,239,.025)" stroke="rgba(236,242,239,0.09)"/>
+<text class="mono" x="392" y="64" font-size="11" fill="#10b981" letter-spacing="1">SYS-DEV</text>
+<text class="sans" x="478" y="57" font-size="15" font-weight="600" fill="#ecf2ef">System Development</text>
+<text class="sans" x="478" y="74" font-size="12" fill="#8b9792">Denning Institute · degree programmes</text></g><g class="s" style="animation-delay:0.27s"><rect x="372" y="96" width="440" height="50" rx="12" fill="rgba(236,242,239,.025)" stroke="rgba(236,242,239,0.09)"/>
+<text class="mono" x="392" y="126" font-size="11" fill="#10b981" letter-spacing="1">WEB-PROG</text>
+<text class="sans" x="478" y="119" font-size="15" font-weight="600" fill="#ecf2ef">Web Programming</text>
+<text class="sans" x="478" y="136" font-size="12" fill="#8b9792">Denning Institute · hands-on labs</text></g><g class="s" style="animation-delay:0.39s"><rect x="372" y="158" width="440" height="50" rx="12" fill="rgba(236,242,239,.025)" stroke="rgba(236,242,239,0.09)"/>
+<text class="mono" x="392" y="188" font-size="11" fill="#10b981" letter-spacing="1">SYS-ARCH</text>
+<text class="sans" x="478" y="181" font-size="15" font-weight="600" fill="#ecf2ef">System Architecture</text>
+<text class="sans" x="478" y="198" font-size="12" fill="#8b9792">Preply · a course I wrote from scratch</text></g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" fill="none">
+<style>
+.sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif} .serif{font-family:'Instrument Serif','Iowan Old Style','Palatino Linotype',Georgia,serif;font-style:italic} .mono{font-family:'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+.fade{animation:up .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.w{opacity:0;animation:rot 15s cubic-bezier(.2,.7,.2,1) infinite}
+@keyframes rot{0%{opacity:0;transform:translateY(22px)}3%{opacity:1;transform:none}17%{opacity:1;transform:none}20%{opacity:0;transform:translateY(-22px)}100%{opacity:0}}
+.a1{animation:d1 16s ease-in-out infinite alternate}.a2{animation:d2 19s ease-in-out infinite alternate}.a3{animation:d3 14s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate(-120px,60px)}}@keyframes d2{to{transform:translate(-90px,-80px)}}@keyframes d3{to{transform:translate(110px,-50px)}}
+.ping{transform-origin:624px 57px;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+@keyframes ping{from{transform:scale(1);opacity:.7}to{transform:scale(3.2);opacity:0}}
+</style>
+
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#10b981"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+</linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="rgba(236,242,239,0.035)"/></pattern><clipPath id="c"><rect width="840" height="360" rx="22"/></clipPath></defs>
+<g clip-path="url(#c)">
+  <rect width="840" height="360" fill="#060807"/>
+  <g filter="url(#blur)" opacity=".9">
+    <circle class="a1" cx="640" cy="80" r="150" fill="#10b981" opacity=".38"/>
+    <circle class="a2" cx="760" cy="300" r="130" fill="#a78bfa" opacity=".28"/>
+    <circle class="a3" cx="470" cy="330" r="120" fill="#22d3ee" opacity=".22"/>
+  </g>
+  <rect width="840" height="360" fill="url(#grid)"/>
+  </g>
+<rect x=".5" y=".5" width="839" height="359" rx="21.5" stroke="rgba(236,242,239,0.09)"/>
+
+<g class="fade" style="animation-delay:.05s">
+  <rect x="48" y="40" width="34" height="34" rx="9" fill="none" stroke="rgba(236,242,239,.18)"/>
+  <text class="sans" x="65" y="62" text-anchor="middle" font-size="13" font-weight="700" fill="#ecf2ef" letter-spacing=".5">SM</text>
+  <text class="mono" x="96" y="62" font-size="12.5" fill="#8b9792">safa-maqbool-dev.vercel.app</text>
+</g>
+<g class="fade" style="animation-delay:.15s">
+  <rect x="604" y="40" width="188" height="34" rx="17" fill="rgba(16,185,129,.08)" stroke="rgba(16,185,129,.35)"/>
+  <circle cx="624" cy="57" r="4" fill="#10b981"/><circle class="ping" cx="624" cy="57" r="4" fill="#10b981"/>
+  <text class="mono" x="638" y="61.5" font-size="12" fill="#ecf2ef">Open to new projects</text>
+</g>
+
+<text class="mono fade" style="animation-delay:.25s" x="48" y="132" font-size="12.5" fill="#8b9792" letter-spacing="2.6">SAFA MAQBOOL — FULL-STACK ENGINEER &amp; EDUCATOR</text>
+<text class="sans fade" style="animation-delay:.35s" x="46" y="190" font-size="50" font-weight="600" fill="#ecf2ef" letter-spacing="-1.6">I design &amp; build</text>
+<text class="serif w" style="animation-delay:0s" x="48" y="252" font-size="62" fill="url(#g)">SaaS platforms.</text><text class="serif w" style="animation-delay:3s" x="48" y="252" font-size="62" fill="url(#g)">AI products.</text><text class="serif w" style="animation-delay:6s" x="48" y="252" font-size="62" fill="url(#g)">scalable MVPs.</text><text class="serif w" style="animation-delay:9s" x="48" y="252" font-size="62" fill="url(#g)">fast websites.</text><text class="serif w" style="animation-delay:12s" x="48" y="252" font-size="62" fill="url(#g)">future engineers.</text>
+<text class="sans fade" style="animation-delay:.6s" x="48" y="306" font-size="16" fill="#8b9792">Next.js, TypeScript &amp; Node — for founders who need it to <tspan fill="#ecf2ef">actually work</tspan>.</text>
+<text class="mono fade" style="animation-delay:.7s" x="792" y="306" text-anchor="end" font-size="12" fill="#8b9792">KHI · UTC+5</text>
+
+</svg>
