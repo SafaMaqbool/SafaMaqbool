@@ -29,6 +29,8 @@ The problem usually isn't the code. It's that nobody was thinking about the **pr
 
 When I'm not shipping for clients, I'm in a classroom — teaching system development, web programming and system architecture. Teaching keeps my own engineering honest.
 
+<a href="https://safa-maqbool-dev.vercel.app"><img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami — Safa Maqbool, full-stack engineer & educator. Now: teaching at Denning, building Acadenxe, freelancing on Upwork." /></a>
+
 <br/>
 
 <picture>
